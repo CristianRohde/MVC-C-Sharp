@@ -1,0 +1,132 @@
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\appsettings.Development.json
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\appsettings.json
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.exe
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.csprojAssemblyReference.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\staticwebassets\Projeto C Sharp.StaticWebAssets.Manifest.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\staticwebassets\Projeto C Sharp.StaticWebAssets.xml
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.RazorAssemblyInfo.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.RazorAssemblyInfo.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.AssemblyInfoInputs.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.AssemblyInfo.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.TagHelpers.input.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.TagHelpers.output.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.RazorCoreGenerate.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.RazorTargetAssemblyInfo.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.RazorTargetAssemblyInfo.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.csproj.CopyComplete
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.MvcApplicationPartsAssemblyInfo.cache
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.deps.json
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.runtimeconfig.json
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.runtimeconfig.dev.json
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.pdb
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.Views.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\bin\Debug\netcoreapp3.0\Projeto C Sharp.Views.pdb
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.Views.pdb
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.dll
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Projeto C Sharp.pdb
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Paciente\Index.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Paciente\DetalhePaciente.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Paciente\EditaPaciente.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Paciente\DeletaPaciente.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Paciente\AdicionaPaciente.cshtml.g.cs
+G:\C#\Projeto C Sharp\Projeto C Sharp\obj\Debug\netcoreapp3.0\Razor\Views\Paciente\MarcaConsulta.cshtml.g.cs
